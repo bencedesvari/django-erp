@@ -157,7 +157,7 @@ form .form-row .selector-available a,
 form .form-row .selector-chosen a {
     padding: 0;
     background: none;
-    color: #ce0600;
+    color: green;
 }
 
 form .form-row ul.selector-chooser { float: left; }
@@ -402,7 +402,7 @@ body.admin #content {
     margin-right: 20px;
     background-position: right 8px;
     background-image: url(../../css/images/bottom.png);
-    color: #ce0600;
+    color: green;
 }
 
 #changelist-filter > ul > li:hover strong { color: #1f1f1f; }
